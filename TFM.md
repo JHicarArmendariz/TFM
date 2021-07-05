@@ -10,11 +10,13 @@ Enseñanza en la antigüedad hasta la Edad Media.
 
 Cómo se enseñaba en la edad media y renacimiento hasta la ilustración.
 
+![Esto es lo que se ve](./images/Prueba_imagen.png)*imagen1*
+
 ## Las academias
 
 La creación de las academias de Bellas Artes y cómo funcionaban.
 
-## La Institución de Libre enseñanza
+## La Institución de Libre Enseñanza
 
 Cómo se crea, por qué, cómo enseña
 
