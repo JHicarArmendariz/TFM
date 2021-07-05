@@ -1,15 +1,5 @@
-# Evolución de la enseñanza del dibujo artístico en España
+# TFM
 
-## Introducción
+Convertir markdown a PDF [extensión de VSCode](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
 
-## Breve contexto histórico
-
-Enseñanza en la antigüedad hasta la Edad Media.
-
-## Los talleres de artesanos
-
-## Las academias
-
-## La Institución de Libre enseñanza
-
-## La educación regladaTFM
+Cómo incluir bibliografía en markdown: [](https://bookdown.org/yihui/rmarkdown-cookbook/bibliography.html)
