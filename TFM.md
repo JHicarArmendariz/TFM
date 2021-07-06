@@ -69,12 +69,10 @@ Cómo se crea, por qué, cómo enseña
 
 ## La educación reglada
 
-Un aprendiz entra a formase en el taller de un maestro que le va dando trabajos repetitivos para ir formándole, y mediante pruebas, cada vez le da mas tareas con las que va perfeccionando el oficio, llegando hasta la condición de _oficial artesano_ y cuando el maestro lo consideraba preparado, tras el exámen de maestría, en el que tenía que hacer una "obra maestra" obtenía el título de maestro.
-
 Evolución de la asignatura de dibujo a lo largo de las diferentes leyes educativas (sólo nombrar las que introduzcan algo nuevo).
 
 ## Bibliografía
 
-[1] `"El aprendiz en los gremios medievales", María Anteles Gallino, Revista Española de Pedagogía, Num. 79-80, Dic,1962`
-[2] `"Pedagogía Waldorf: Una decuación dhacia la libertad", Frans Carlgren, Editorial Rudolf Steiner, Guipúzcoa`
-[3] `"La formación del artista y el funcionamiento de la bottega en el Renacimiento Florentino desde el quatroccento hasta Vassari (1450-1550)", Victor Arminio Escobar, Trabajo fin de Grado, 2019`
+[1] `"El aprendiz en los gremios medievales", María Anteles Gallino, Revista Española de Pedagogía, Num. 79-80, Dic,1962`  
+[2] `"Pedagogía Waldorf: Una decuación dhacia la libertad", Frans Carlgren, Editorial Rudolf Steiner, Guipúzcoa`  
+[3] `"La formación del artista y el funcionamiento de la bottega en el Renacimiento Florentino desde el quatroccento hasta  Vassari (1450-1550)", Victor Arminio Escobar, Trabajo fin de Grado, 2019`
