@@ -43,15 +43,25 @@ Un aprendiz podía cambiar de oficio si su maestro veía que tenía aptitudes pa
 
 El **oficial** se consideraba un trabajador cualificado, que hace el trabajo final, la relación con el maestro era contractual. Dos años era el tiempo mínimo en el que se tenía que estar en esta condición.
 
-Para convertirse en maestro, un oficial tenía que pasar un exámen y realizar una obra maestra ante la corporación del gremio tras el cual podría establecerse por su cuenta en un taller.
+Para convertirse en maestro, un oficial tenía que pasar un exámen y realizar una obra maestra ante la corporación del gremio tras el cual podría establecerse por su cuenta en un taller, siempre vigilado por el gremio.
 
 > Aquí hay que detallar mas concretamente en qué consistian esas pruebas y exámenes.
 
 ### Métodos de aprendizaje
 
-Se hacían desde tareas sencillas desde preparación de materiales, aprendizaje del uso de las herramientas, etc... pero lo realmente formador era la colaboración práctica en la obra del maestro que cogía más importancia según el aprendiz adquiría pericia a base de repeticiones.
+El aprendíz se incorporaba a la casa del maestro y vivía con el, normalmente en el mismo taller, siendo el maestro no sólo formador en el oficio sino también haciendo la función de tutor, la familia del maestro es un ejemplo para el aprendiz.
+
+Hay un orden jerárquico claramente definido y toda la educación se orienta a encaminar al muchacho en los grados de aprendiz y oficial hasta, si tiene la valía suficiente, maestro. Aparte de la formación técnica a la que haremos referencia en breve, se forma al aprendiz en la sumisión y respeto a los superiores.
+
+Las características pegagógicas son "la rutina, la pasividad, y socialemnte, la multiplicación abusiva de obstáculos en la carrerar del trabajador" [1], destinada a mantener las clases sociales.
+
+La formación del aprendíz tenía un marcado carácter empírico, se hacían desde tareas sencillas desde preparación de materiales, aprendizaje del uso de las herramientas, etc... pero lo realmente formador era la colaboración práctica en la obra del maestro que cogía más importancia según el aprendiz adquiría pericia a base de repeticiones.
 
 Uno de los métodos más efectivos era la copia y ejercicios de dibujo, de esta forma, ejercitaban el ojo y la mano. Los modelos son dibujos realizados por el maestro, usaban como modelos obras de maestros antigüos o contemporaneos, desde dibujos hasta obras completas. Todo esto se guardaba en _libros de apuntes_  que usaba el maestro y se intercambiaban entre maestros.
+
+Una de las principales carácterísticas de la formación en esta época es que huye de innovaciones, estando orientada la formación a la repetición e imitación de modelos "ejemplares"; en definitiva, la búsqueda de la costumbre (el "como se acostumbra a hacer").
+
+La formación gremial se dilata en el tiempo debido a que el gremio impone un "número clauso" de trabajadores adultos, de forma que la forma de avanzar en la formación muchas veces implicaba dejar al maestro y cambiarlo por otro (en otro lugar normalmente).
 
 En los talleres del renacimiento, aparte de lo anterior y  como evolución una vez dominada la técnica de la copia; también se dibuja del natural introduciéndose como paso previo la utilización de bocetos.
 
@@ -73,6 +83,38 @@ Evolución de la asignatura de dibujo a lo largo de las diferentes leyes educati
 
 ## Bibliografía
 
-[1] `"El aprendiz en los gremios medievales", María Anteles Gallino, Revista Española de Pedagogía, Num. 79-80, Dic,1962`  
-[2] `"Pedagogía Waldorf: Una decuación dhacia la libertad", Frans Carlgren, Editorial Rudolf Steiner, Guipúzcoa`  
-[3] `"La formación del artista y el funcionamiento de la bottega en el Renacimiento Florentino desde el quatroccento hasta  Vassari (1450-1550)", Victor Arminio Escobar, Trabajo fin de Grado, 2019`
+Marco Lucio Vitruvio Polion (), "Los diez libros de Arquitectura"
+
+Jorge Tomás (2016), "_Nulla dies sine pictura_: la pintura como materia docente en la antigua Grecia", Arte, Individuo y Sociedad, Ediciones Complutense ISSN 1131-5598.
+
+María Angeles Galino, (1962), "El aprendiz en los gremios medievales", Revista Española de Pedagogía, 79-80, Dic,1962.
+
+Denis Menjot, (2010), "El mundo del artesanado y la industria en las ciudades de Europa occidental durante la Edad Media (siglos XII-XV), CATHARUM, Revista de Ciencias y Humanidades del Instituto de Estudios Hipánicos de Canarias.
+
+Ana María Montero Pedrera (1998), "Origen y desarrollo de las escuelas de artes y oficios en España", Universidad de Sevilla, ISSN 0212-0267
+
+Victor Arminio Escobar (2019), "La formación del artista y el funcionamiento de la bottega en el Renacimiento Florentino desde el quatroccento hasta  Vassari (1450-1550)", Trabajo fin de Grado.
+
+Pedro Navascués Palacio (), "La Real Academia de Bellas Artes de San Fernando y los Premios de Arquitectura en el siglo XVIII", Conferencia del Académico Invitado.
+
+Begoña Sabio (2005), "Las escuelas de arte a través de la historia", Paperback nº0 2005, ISSN 1885-8007
+
+Juan C. Araño Gisbert (1989), "La enseñanza de las Bellas Artes como forma de ideología cultural", Arte, Individuo y Sociedad, 2, 1989, Editorial Universidad Complutense, Madrid.
+
+José Bermúdez Abellán (2005), "Génesis y evolución del Dibujo como disciplina básica en la Segunda Enseñanza (1836-1936), Universidad de Murcia - Departamento de Teoría e Historia de la Educación.
+
+Esther Collados Carmona (2008), "El concepto de dibujo y su práctica en los libros de texto de educación primaria publicados en Espña en el período comprendido entre 1915-1990", Universidad Autónoma de Barcelona, ISSN 0212-0267.
+
+Jose Angel Garrido González, Amparo Pinto Martín (1996), "La Educación estética en la Institución Libre de Enseñanza", Rvta. Interuniversitaria de Formación del Profesorado, nº27, Septbre/decbre 1996 (151-166)
+
+Silvia Burset (2017), "La didáctica de las artes plásticas: entre lo visual, lo visible y lo invisible.", DIDACTAE, Universitat de Barcelona, ISSN 2462-2737.
+
+Cándida Martínez López (2007), "El legado de la Institución Libre de Enseñanza en el proyecto educativo andaluz", Lección inaugural del Curso Académico 2007-2008, Campus Universitario de Melilla, Publicaciones, 37, 2007.
+
+Marina Puente Verde, (2017), "Las artes en educación: concepciones, retos y posibilidades", Universidad de Cantabria, Trabajo Fin de Master, Director: Antonio Santos Aparicio.
+
+Magdalena Droste (1993) "Bauhaus, 1919-1933", Bauhaus Archiv-Museum für Gestaltung.
+
+Frans Carlgren, "Pedagogía Waldorf: Una educación hacia la libertad", Ed. Rudolf Steiner, Guipúzcoa.
+
+Mª Dolores López martínez (2010), "La metodología expresionista en la educación artística y su contribución al arteterapia", Universidad de Murcia, Arte, Individuo y Sociedad, 2011, 23 (1), 81-87, ISSN 1131-5598
