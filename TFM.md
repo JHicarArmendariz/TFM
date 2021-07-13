@@ -4,6 +4,8 @@
   - [Introducción](#introducción)
   - [Marco teórico](#marco-teórico)
   - [Breve contexto histórico](#breve-contexto-histórico)
+    - [Egipto](#egipto)
+    - [Grecia](#grecia)
   - [Los talleres](#los-talleres)
     - [Métodos de aprendizaje](#métodos-de-aprendizaje)
   - [Las Academias](#las-academias)
@@ -23,7 +25,21 @@ El presente documento es un análisis de trabajos previos en los que ya se ha tr
 
 ## Breve contexto histórico
 
-Enseñanza en la antigüedad hasta la Edad Media.
+### Egipto
+
+El artista es considerado -a excepción de algún arquitecto- un simple artesano, y la formación recibida se correspondía a tal. Un jóven tendría el oficio de su padre y tenía su formación marcada desde su nacimiento.
+
+### Grecia
+
+En la cultura occidental, las primeras enseñanzas se produjeron en el norte del Peloponeso, en Sicon y Corinto (Jorge Tomas), casi todas las referencias nos vienen a través de Plinio el Viejo (23-79 d.C). Según relata, el pintor de Alejando Magno -Apeles de Colofón- recomendaba al pintor no dejar día sin pintar para mejora la téctica. Apeles fué docente en la escuela de Sicón, donde se instauró la norma entre los alumnos _nulla dies sine pictura_ y donde la pintura era un elemento pedagógico en la educación integral del ciudadano.
+
+Desde el inicio de la pintura griega, se resalta el dibujo como proceso básico de la pintura haciendo incapié en la proporción. Hay que atribuir a Pánfilo la autoría de un tratado sobre pintura y dibujo, y defendió el valor pedagógico del artista y el valor de la aritmética y geometría como ciencias sin las cuales era inconcebible finalizar una obra.
+
+A partir del siglo V a.C. la educación artística se orientó a adquirir destrezas gráficas, empleando para ello métodos propios de la formación de artistas como puedan ser la copia o el dibujo del natural, buscando la imitación de la naturaleza.
+
+Es en esta época cuando en Atenas se persiguen cuatro objetivos educativos: adquirir valores éticos, transmisión del saber acumulado, interés hacia nuevas formas educativas y enseñar habilidades para ejercer un oficio. Desde la edad de siete años y hasta los catorce, los jóvenes eran formados por profesores particulares y/o aprendían un oficio. Después, y hasta los dieciocho años recibían entrenamiento militar. Esto dejaba de lado la enseñanza de las artes plásticas, consideradas oficios artesanales carentes de valor pedagógico. Esta idea es reforzada en el plan educativo de Platón para la ciudad ideal, donde las artes pláticas no son consideradas elementos pedagógicos útiles ya que como imágenes del mundo de las ideas son falsas.
+
+Esto cambia con Aritóteles, quien considera el arte y la educación "vienen a completar lo que la naturaleza deja incompleto", con lo que la pintura y el dibujo tornan, a diferencia que para su maestro, herramientas pedagógicas con legitimación intelectual.
 
 ## Los talleres
 
