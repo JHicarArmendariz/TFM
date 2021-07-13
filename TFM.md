@@ -118,3 +118,10 @@ Magdalena Droste (1993) "Bauhaus, 1919-1933", Bauhaus Archiv-Museum für Gestalt
 Frans Carlgren, "Pedagogía Waldorf: Una educación hacia la libertad", Ed. Rudolf Steiner, Guipúzcoa.
 
 Mª Dolores López martínez (2010), "La metodología expresionista en la educación artística y su contribución al arteterapia", Universidad de Murcia, Arte, Individuo y Sociedad, 2011, 23 (1), 81-87, ISSN 1131-5598
+
+Pablo Celada Perandones, Nicolás Alonso Castro; "La enseñanza del dibujo: un recorrido por el modelo académico difuminado en la práctica escolar", Actas del XVIII Coloquio de Historia de la Educación. Vol. 2. Sección 3, Universidad de Burgos
+
+Elisa Povedano Marrugat (1999), "Enseñanza de las Bellas Artes en España", Universidad Carlos III, Madrid, ISSN 10016/16183
+
+África Cabanillas Casafranca, Amparo Serrano de Haro, "La mujer en la Escuela de Bellas Artes de San Fernando (1873-1967), Academia 12,2019, 111-136, ISSN 0567-560X
+
