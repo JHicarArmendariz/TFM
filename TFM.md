@@ -6,6 +6,7 @@
   - [Breve contexto histórico](#breve-contexto-histórico)
     - [Egipto](#egipto)
     - [Grecia](#grecia)
+  - [Siglo XX: La metodología expresionista](#siglo-xx-la-metodología-expresionista)
   - [Los talleres](#los-talleres)
     - [Métodos de aprendizaje](#métodos-de-aprendizaje)
   - [Las Academias](#las-academias)
@@ -40,6 +41,22 @@ A partir del siglo V a.C. la educación artística se orientó a adquirir destre
 Es en esta época cuando en Atenas se persiguen cuatro objetivos educativos: adquirir valores éticos, transmisión del saber acumulado, interés hacia nuevas formas educativas y enseñar habilidades para ejercer un oficio. Desde la edad de siete años y hasta los catorce, los jóvenes eran formados por profesores particulares y/o aprendían un oficio. Después, y hasta los dieciocho años recibían entrenamiento militar. Esto dejaba de lado la enseñanza de las artes plásticas, consideradas oficios artesanales carentes de valor pedagógico. Esta idea es reforzada en el plan educativo de Platón para la ciudad ideal, donde las artes pláticas no son consideradas elementos pedagógicos útiles ya que como imágenes del mundo de las ideas son falsas.
 
 Esto cambia con Aritóteles, quien considera el arte y la educación "vienen a completar lo que la naturaleza deja incompleto", con lo que la pintura y el dibujo tornan, a diferencia que para su maestro, herramientas pedagógicas con legitimación intelectual.
+
+## Siglo XX: La metodología expresionista
+
+Entre 1920 y 1940, principalmente en Reino Unido y Norte América, aparece esta corriente que concibe la enseñanza artística desde la expresión libre y emocional de la persona, sin instrucciones previas, dejando a las personas que experimenten con los materiales y técnicas. El alumno elige de forma libre los materiales, la técnica, etc... sin pautas por parte del profesor.
+
+Desde esta corriente se pone en valor la forma innata que tienen los niños de utilizar las plástica para expresar sus emociones, cosa que no puede ser enseñada, ya que cualquier pauta impuesta puede causar en el sujeto bloqueos e inhibiciones -recordemos que es en estos tiempos cuando está en pleno auge el psicoanálisis.
+
+El docente tiene que favorecer el autodescubrimiento y exteriorización de las emociones, sin que su intervención suponga una presión hacia el alumno, de forma que este se sienta libre de explorar. En esta corriente la evaluación del alumno carece de importancia.
+
+Los artistas de vanguardia enseguida se suman a esta corriente. En Viena, Franz Cizek funda el movimiento _Seccesion_, grupo próximo a _Die Brüke_ o _Blaue Reiter_, que ya en 1907 había organizado una exposición en la que se incluían obras infantiles (_Musee du Peuple_, Angers). Estos movimientos artísticos buscan conseguir un arte incontaminado por los conflictos de una sociedad corrompida, asumiendo el arte un rol liberador; es desde esta perspectiva que el niño artista recibe el papel de salvador de la sociedad.
+
+A su vez, los profesores empiezan a introducir técnicas de los artistas de vanguardia, como puedan ser el collage, experimentación con materiales "no artísticos" o de desecho, etc.
+
+Exponente de esta filosofía es la _Walden School_ de Neva York, que en su currículo otorgó gran importancia a las enseñanzas artísticas siendo la principal preocupación del maestro no reprimir la emociones del niño potenciando la técnica del _Garabateo_.
+
+
 
 ## Los talleres
 
