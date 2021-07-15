@@ -1,38 +1,32 @@
-# Evolución de la enseñanza del dibujo artístico en España
+# Metodología de la enseñanza de la enseñanza de las Artes Plástica España
 
-- [Evolución de la enseñanza del dibujo artístico en España](#evolución-de-la-enseñanza-del-dibujo-artístico-en-españa)
+- [Metodología de la enseñanza de la enseñanza de las Artes Plástica España](#metodología-de-la-enseñanza-de-la-enseñanza-de-las-artes-plástica-españa)
   - [Introducción](#introducción)
   - [Marco teórico](#marco-teórico)
-  - [Breve contexto histórico](#breve-contexto-histórico)
-    - [Egipto](#egipto)
-    - [Grecia](#grecia)
-  - [Siglo XX: La metodología expresionista](#siglo-xx-la-metodología-expresionista)
-  - [Los talleres](#los-talleres)
-    - [Métodos de aprendizaje](#métodos-de-aprendizaje)
+  - [(Contexto histórico, estado de la cuestión)](#contexto-histórico-estado-de-la-cuestión)
   - [Las Academias](#las-academias)
+    - [Siglo XX: La metodología expresionista](#siglo-xx-la-metodología-expresionista)
   - [La Institución de Libre Enseñanza](#la-institución-de-libre-enseñanza)
   - [La educación reglada](#la-educación-reglada)
   - [Bibliografía](#bibliografía)
 
 ## Introducción
 
-En este trabajo vamos ha hacer un recorrido por la metodología que se ha usado a través del tiempo en la enseñanza del dibujo artístico en España. Veremos que ha habido poca evolución en la enseñanza hasta el siglo XXI donde se han empezado a usar método más intuitivos (_Método Waldorf_) en la enseñanza, siguiéndose hasta ese momento copiar láminas o del natural sin dejar que se desarrolle la intuición artística del alumno hasta que este demostrase cierta pericia en la técnica.
-
-El presente documento es un análisis de trabajos previos en los que ya se ha tratado el tema y una revisón de legislación busando en los planes de estudio referencias a metodologías empleadas en la didáctica del dibujo.
-
+bla, bla
 ## Marco teórico
 
-> No tengo muy claro que poner aquí.
 
-## Breve contexto histórico
+## (Contexto histórico, estado de la cuestión)
 
-### Egipto
+Vamos a hacer una revision historico/conceptual de cómo se ha ido desarrollando la enseñanza de las artes plásticas, entendiendo por esto, dibujo, pintura y escultura. El resto de las artes plásticas no se abarcan en el presente trabajo porque consideramos que, por un lado, la arquitectura por sí misma es una materia que ocuparía por sí sola un tratado y el resto haría que este trabajo se extienda mucho.
 
-El artista es considerado -a excepción de algún arquitecto- un simple artesano, y la formación recibida se correspondía a tal. Un jóven tendría el oficio de su padre y tenía su formación marcada desde su nacimiento.
+En nuestra época es fácil distinguir entre las diferentes disciplinas, pero las fronteras entre ellas se van difuminando según vamos retrocediendo en el tiempo. En el presente trabajo vamos a ir haciendo un recorrido de cómo se ha ido enseñando y la importancia que se le ha dado a esta materia a lo largo de la historia.
 
-### Grecia
+En el antigüo Egipto, el artista es considerado -a excepción de algún arquitecto- un simple artesano, y la formación recibida se correspondía a tal. Un jóven tendría el oficio de su padre y tenía su formación marcada desde su nacimiento. El aprendizaje se realizaba en el taller, siguiendo métodos que, como veremos, se repetirán a lo largo de la historia.
 
-En la cultura occidental, las primeras enseñanzas se produjeron en el norte del Peloponeso, en Sicon y Corinto (Jorge Tomas), casi todas las referencias nos vienen a través de Plinio el Viejo (23-79 d.C). Según relata, el pintor de Alejando Magno -Apeles de Colofón- recomendaba al pintor no dejar día sin pintar para mejora la téctica. Apeles fué docente en la escuela de Sicón, donde se instauró la norma entre los alumnos _nulla dies sine pictura_ y donde la pintura era un elemento pedagógico en la educación integral del ciudadano.
+En la época antigüa, en Grecia, con las escuelas de Sicon y Corinto, es donde se empiez a desarrollar una pedagogía de las Artes Plástias.
+
+Casi todas las referencias nos vienen a través de Plinio el Viejo (23-79 d.C). Según relata, el pintor de Alejando Magno -Apeles de Colofón- recomendaba al pintor no dejar día sin pintar para mejora la téctica. Apeles fué docente en la escuela de Sicón, donde se instauró la norma entre los alumnos _nulla dies sine pictura_ y donde la pintura era un elemento pedagógico en la educación integral del ciudadano.
 
 Desde el inicio de la pintura griega, se resalta el dibujo como proceso básico de la pintura haciendo incapié en la proporción. Hay que atribuir a Pánfilo la autoría de un tratado sobre pintura y dibujo, y defendió el valor pedagógico del artista y el valor de la aritmética y geometría como ciencias sin las cuales era inconcebible finalizar una obra.
 
@@ -42,45 +36,15 @@ Es en esta época cuando en Atenas se persiguen cuatro objetivos educativos: adq
 
 Esto cambia con Aritóteles, quien considera el arte y la educación "vienen a completar lo que la naturaleza deja incompleto", con lo que la pintura y el dibujo tornan, a diferencia que para su maestro, herramientas pedagógicas con legitimación intelectual.
 
-## Siglo XX: La metodología expresionista
+En Roma, bla, bla, bla, Vitruvio, bla, bla, mosaicos, bla, bla
 
-Entre 1920 y 1940, principalmente en Reino Unido y Norte América, aparece esta corriente que concibe la enseñanza artística desde la expresión libre y emocional de la persona, sin instrucciones previas, dejando a las personas que experimenten con los materiales y técnicas. El alumno elige de forma libre los materiales, la técnica, etc... sin pautas por parte del profesor.
-
-Desde esta corriente se pone en valor la forma innata que tienen los niños de utilizar las plástica para expresar sus emociones, cosa que no puede ser enseñada, ya que cualquier pauta impuesta puede causar en el sujeto bloqueos e inhibiciones -recordemos que es en estos tiempos cuando está en pleno auge el psicoanálisis.
-
-El docente tiene que favorecer el autodescubrimiento y exteriorización de las emociones, sin que su intervención suponga una presión hacia el alumno, de forma que este se sienta libre de explorar. En esta corriente la evaluación del alumno carece de importancia.
-
-Los artistas de vanguardia enseguida se suman a esta corriente. En Viena, Franz Cizek funda el movimiento _Seccesion_, grupo próximo a _Die Brüke_ o _Blaue Reiter_, que ya en 1907 había organizado una exposición en la que se incluían obras infantiles (_Musee du Peuple_, Angers). Estos movimientos artísticos buscan conseguir un arte incontaminado por los conflictos de una sociedad corrompida, asumiendo el arte un rol liberador; es desde esta perspectiva que el niño artista recibe el papel de salvador de la sociedad.
-
-A su vez, los profesores empiezan a introducir técnicas de los artistas de vanguardia, como puedan ser el collage, experimentación con materiales "no artísticos" o de desecho, etc.
-
-Exponente de esta filosofía es la _Walden School_ de Neva York, que en su currículo otorgó gran importancia a las enseñanzas artísticas siendo la principal preocupación del maestro no reprimir la emociones del niño potenciando la técnica del _Garabateo_.
-
-
-
-## Los talleres
-
-Un aprendiz entra a formase en el taller de un maestro que le va dando trabajos repetitivos para ir formándole, y mediante pruebas, cada vez le da mas tareas con las que va perfeccionando el oficio, llegando hasta la condición de _oficial artesano_ y cuando el maestro lo consideraba preparado, tras el exámen de maestría, en el que tenía que hacer una "obra maestra" obtenía el título de maestro.
-
-En el siglo XVI, cuando el Renacimiento se empieza a extender dede Italia al resto del mundo; pintores y escultores empiezan la lucha por independizares del mundo gremial de la Edad Media [1].
-
-En esta época se empiezan a diferenciar los artistas de los artesanos, siendo los primeros productores de objetos bajo encargo -bellos-, y los segundos productores de artículos de consumo -útiles.
-
-En esta época al final de su aprendizaje, los artistas hacía viajes de formación, visitando talleres de otros artistas (principalmente de Italia) y adquiriendo nuevas técnicas (de ahí que estos artistas produjeran obras _a la italiana_, _a la antigüa_). Estos viajes, en el siglo XVIII derivarían en "El gran tour" [referir_bibliografia]
+Y llegamos a los visigodos y el comienzo de la Edad Media, donde los talleres y los gremios tomarán importancia. En ellos, un aprendiz entra a formase en el taller de un maestro que le va dando trabajos repetitivos para ir formándole, y mediante pruebas, cada vez le da mas tareas con las que va perfeccionando el oficio, llegando hasta la condición de _oficial artesano_ y cuando el maestro lo consideraba preparado, tras el exámen de maestría, en el que tenía que hacer una "obra maestra" obtenía el título de maestro.
 
 El **aprendiz** es un chico entre 8 y 14 años, recibe la formación impartida por el maestro a la vez que son mano de obra barata para el taller, vivían con el maestro como un hijo mas, y a veces les pagaba un salario, según estipulase el _contrato de aprendizaje_ cuando lo había. Los padres negociaban cómo sería la relación y transmitián la patria potestad al maestro. De media, un muchacho estaba entre 4 y 8 años en esta condición.
 
 Para pasar a oficial, un aprendiz tenía que tener la _contenta_ de su maestro -un visto bueno.
 
 Un aprendiz podía cambiar de oficio si su maestro veía que tenía aptitudes para el otro oficio, recomendando al otro maestro la tutela de su pupilo.
-
-El **oficial** se consideraba un trabajador cualificado, que hace el trabajo final, la relación con el maestro era contractual. Dos años era el tiempo mínimo en el que se tenía que estar en esta condición.
-
-Para convertirse en maestro, un oficial tenía que pasar un exámen y realizar una obra maestra ante la corporación del gremio tras el cual podría establecerse por su cuenta en un taller, siempre vigilado por el gremio.
-
-> Aquí hay que detallar mas concretamente en qué consistian esas pruebas y exámenes.
-
-### Métodos de aprendizaje
 
 El aprendíz se incorporaba a la casa del maestro y vivía con el, normalmente en el mismo taller, siendo el maestro no sólo formador en el oficio sino también haciendo la función de tutor, la familia del maestro es un ejemplo para el aprendiz.
 
@@ -96,15 +60,44 @@ Una de las principales carácterísticas de la formación en esta época es que 
 
 La formación gremial se dilata en el tiempo debido a que el gremio impone un "número clauso" de trabajadores adultos, de forma que la forma de avanzar en la formación muchas veces implicaba dejar al maestro y cambiarlo por otro (en otro lugar normalmente).
 
+El **oficial** se consideraba un trabajador cualificado, que hace el trabajo final, la relación con el maestro era contractual. Dos años era el tiempo mínimo en el que se tenía que estar en esta condición.
+
+Para convertirse en maestro, un oficial tenía que pasar un exámen y realizar una obra maestra ante la corporación del gremio tras el cual podría establecerse por su cuenta en un taller, siempre vigilado por el gremio.
+
+> Aquí hay que detallar mas concretamente en qué consistian esas pruebas y exámenes.
+
 En los talleres del renacimiento, aparte de lo anterior y  como evolución una vez dominada la técnica de la copia; también se dibuja del natural introduciéndose como paso previo la utilización de bocetos.
 
 Los materiales usados eran tablillas impresas con polvo de hueso o cubieras con pergamino.
 
 Al final del del Renacimiento empezamos a ver cómo se empieza a fragüar la transición hacia la edad moderna, aunque por un lado se siguen manteniendo las antigüas estructuras gremiales, por otro se empiezan a vislumbrar la libertad posterior de los aprendices de artista empezando a usar cuadernos de bocetos.
 
+En el siglo XVI, cuando el Renacimiento se empieza a extender dede Italia al resto del mundo; pintores y escultores empiezan la lucha por independizares del mundo gremial de la Edad Media [referir bibliobrafía].
+
+En esta época se empiezan a diferenciar los artistas de los artesanos, siendo los primeros productores de objetos bajo encargo -bellos-, y los segundos productores de artículos de consumo -útiles.
+
+En esta época al final de su aprendizaje, los artistas hacía viajes de formación, visitando talleres de otros artistas (principalmente de Italia) y adquiriendo nuevas técnicas (de ahí que estos artistas produjeran obras _a la italiana_, _a la antigüa_). Estos viajes, en el siglo XVIII derivarían en "El gran tour" [referir bibliografia]
+
+En el Renacimiento es donde se empieza a descubrir la perspetiva, primero la básica con un solo punto de fuga que poco a poco va evolucionando hacia varios puntos de fuga.
+
+En Italia, por esta época (confirmar), empiezan a proliferar las Academias de Bellas Artes como auxilio de los talleres gremiales como punto de reunión de los profesionales donde discutían acerca de su oficio y sus formas de hacer. Con el paso del tiempo estas perderían su _frescura_ y adoptarían un tono academicista mucho más rígido.
 ## Las Academias
 
 La creación de las academias de Bellas Artes y cómo funcionaban.
+
+### Siglo XX: La metodología expresionista
+
+Entre 1920 y 1940, principalmente en Reino Unido y Norte América, aparece esta corriente que concibe la enseñanza artística desde la expresión libre y emocional de la persona, sin instrucciones previas, dejando a las personas que experimenten con los materiales y técnicas. El alumno elige de forma libre los materiales, la técnica, etc... sin pautas por parte del profesor.
+
+Desde esta corriente se pone en valor la forma innata que tienen los niños de utilizar las plástica para expresar sus emociones, cosa que no puede ser enseñada, ya que cualquier pauta impuesta puede causar en el sujeto bloqueos e inhibiciones -recordemos que es en estos tiempos cuando está en pleno auge el psicoanálisis.
+
+El docente tiene que favorecer el autodescubrimiento y exteriorización de las emociones, sin que su intervención suponga una presión hacia el alumno, de forma que este se sienta libre de explorar. En esta corriente la evaluación del alumno carece de importancia.
+
+Los artistas de vanguardia enseguida se suman a esta corriente. En Viena, Franz Cizek funda el movimiento _Seccesion_, grupo próximo a _Die Brüke_ o _Blaue Reiter_, que ya en 1907 había organizado una exposición en la que se incluían obras infantiles (_Musée du Peuple_, Angers). Estos movimientos artísticos buscan conseguir un arte incontaminado por los conflictos de una sociedad corrompida, asumiendo el arte un rol liberador; es desde esta perspectiva que el niño artista recibe el papel de salvador de la sociedad.
+
+A su vez, los profesores empiezan a introducir técnicas de los artistas de vanguardia, como puedan ser el collage, experimentación con materiales "no artísticos" o de desecho, etc.
+
+Exponente de esta filosofía es la _Walden School_ de Neva York, que en su currículo otorgó gran importancia a las enseñanzas artísticas siendo la principal preocupación del maestro no reprimir la emociones del niño potenciando la técnica del _Garabateo_.
 
 ## La Institución de Libre Enseñanza
 
