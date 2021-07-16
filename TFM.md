@@ -1,13 +1,10 @@
-# Metodología de la enseñanza de la enseñanza de las Artes Plástica España
+# Metodología de la enseñanza de la enseñanza de las Artes Plásticas en España
 
-- [Metodología de la enseñanza de la enseñanza de las Artes Plástica España](#metodología-de-la-enseñanza-de-la-enseñanza-de-las-artes-plástica-españa)
+- [Metodología de la enseñanza de la enseñanza de las Artes Plásticas en España](#metodología-de-la-enseñanza-de-la-enseñanza-de-las-artes-plásticas-en-españa)
   - [Introducción](#introducción)
   - [Marco teórico](#marco-teórico)
   - [(Contexto histórico, estado de la cuestión)](#contexto-histórico-estado-de-la-cuestión)
-  - [Las Academias](#las-academias)
-    - [Siglo XX: La metodología expresionista](#siglo-xx-la-metodología-expresionista)
-  - [La Institución de Libre Enseñanza](#la-institución-de-libre-enseñanza)
-  - [La educación reglada](#la-educación-reglada)
+  - [El caso de España](#el-caso-de-españa)
   - [Bibliografía](#bibliografía)
 
 ## Introducción
@@ -81,13 +78,31 @@ En esta época al final de su aprendizaje, los artistas hacía viajes de formaci
 En el Renacimiento es donde se empieza a descubrir la perspetiva, primero la básica con un solo punto de fuga que poco a poco va evolucionando hacia varios puntos de fuga.
 
 En Italia, por esta época (confirmar), empiezan a proliferar las Academias de Bellas Artes como auxilio de los talleres gremiales como punto de reunión de los profesionales donde discutían acerca de su oficio y sus formas de hacer. Con el paso del tiempo estas perderían su _frescura_ y adoptarían un tono academicista mucho más rígido.
-## Las Academias
 
-La creación de las academias de Bellas Artes y cómo funcionaban.
+...
+...
+...
+...
 
-### Siglo XX: La metodología expresionista
+Las Academias, poco a poco van controlando el mundo de las artes plasticas hasta el punto de no ser aceptado como obra de arte nada que no siguiera sus canones, volviéndose instituciones rígidas. Coincidiendo con la revolución industrial, en Inglaterra, a mediados del siglo XIX siendo esta líder en el campo de las artes y oficios, se produce una reforma de los procesos educativos para artesanos y para las academias, ya no tenían que copiar modelos, diseñaban. Muchos artistas y artesanos reniegan del mundo industrial "odio a la civilizacion moderna y a sus productos" (W. Morris), de esta reveldía surge el estilo _Art & Crafts_, que funda talleres de trabajo en el último tercio del siglo XIX, inspirándose en motivos medievales y orientales.
 
-Entre 1920 y 1940, principalmente en Reino Unido y Norte América, aparece esta corriente que concibe la enseñanza artística desde la expresión libre y emocional de la persona, sin instrucciones previas, dejando a las personas que experimenten con los materiales y técnicas. El alumno elige de forma libre los materiales, la técnica, etc... sin pautas por parte del profesor.
+En Europa, un poco mas tarde, pasa lo mismo, se fundan el _Museo Austriaco de Artes y Oficios_, y el en Berlín el _Museo de Arte Industrial_ para poner remedio la crisis en la que estaban sumidas las artes industriales. Un segundo impulso reformista llegó de la mano del _jungendstil_ (modernismo). Los alemanes quieren imitar la forma de hacer en Inglaterra, mandan a Hermann Muthesius a estudiar las causas del éxito ingles. A su vuelta con sus propuetas, se ampliaron con talleres las escuelas de artes y oficios. En Düsseldord, Berlin, Stutgart, y Weimar, entre otras, diferentes artistas reforman las escuelas y se fundan talleres que funcionan como escuelas privadas. A diferencia de la escuela inglesa _Art & Crafts_ estos se apoyan en máquinas para la creación artística.
+
+Es de esta semilla, de donde surge un movimiento de renovación pedagogica que pretende que el arte sea parte de la educacion. Son varios los movimientos que pretenden dar un nuevo concepto en la educacíon plástica, destacan el expresionismo, la Bauhaus y la pedagogía de Rudolf Steiner.
+
+
+
+
+
+
+
+
+
+
+La muerte de las Academias supone que los artistas sean libres para crear. Es en el siglo XX cuando aparecen los _ismos_, que  finalmente se crean formas de entender el arte contrarias  contrarios a ellas.
+
+
+A principios del siglo XX, con el expresionismo, principalmente en Reino Unido y Norte América, aparece esta corriente que concibe la enseñanza artística desde la expresión libre y emocional de la persona, sin instrucciones previas, dejando a las personas que experimenten con los materiales y técnicas. El alumno elige de forma libre los materiales, la técnica, etc... sin pautas por parte del profesor. Ya en España Goya escribió una carta a la Academia de San Fernando. ( copiarla) donde se critica la enseñanza en las Academias y propone un metodo educativo basado en la libertad de creación.
 
 Desde esta corriente se pone en valor la forma innata que tienen los niños de utilizar las plástica para expresar sus emociones, cosa que no puede ser enseñada, ya que cualquier pauta impuesta puede causar en el sujeto bloqueos e inhibiciones -recordemos que es en estos tiempos cuando está en pleno auge el psicoanálisis.
 
@@ -98,14 +113,15 @@ Los artistas de vanguardia enseguida se suman a esta corriente. En Viena, Franz 
 A su vez, los profesores empiezan a introducir técnicas de los artistas de vanguardia, como puedan ser el collage, experimentación con materiales "no artísticos" o de desecho, etc.
 
 Exponente de esta filosofía es la _Walden School_ de Neva York, que en su currículo otorgó gran importancia a las enseñanzas artísticas siendo la principal preocupación del maestro no reprimir la emociones del niño potenciando la técnica del _Garabateo_.
+ Bauhaus. La propia Bauhaus en sus origenes fue expresionista
+## El caso de España
 
-## La Institución de Libre Enseñanza
+En este punto tratar las peculiaridades de la enseñanza a lo largo del tiempo en España, haremos referencia en el caso de que en España tenga características distintas que en en resto del mundo.
 
-Cómo se crea, por qué, cómo enseña
-
-## La educación reglada
-
-Evolución de la asignatura de dibujo a lo largo de las diferentes leyes educativas (sólo nombrar las que introduzcan algo nuevo).
+> **Aquí habría que tratar**
+> La Real Academia de Bellas Artes de San Fernando
+> La Institución de Libre Enseñanza
+> La educación reglada, el lío que ha habido históricamente con las leyes de educación
 
 ## Bibliografía
 
