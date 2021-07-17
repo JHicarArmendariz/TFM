@@ -5,6 +5,8 @@
   - [Marco teórico](#marco-teórico)
   - [(Contexto histórico, estado de la cuestión)](#contexto-histórico-estado-de-la-cuestión)
   - [El caso de España](#el-caso-de-españa)
+    - [Metodología Waldorf](#metodología-waldorf)
+    - [Metodología Montessori](#metodología-montessori)
   - [Bibliografía](#bibliografía)
 
 ## Introducción
@@ -61,7 +63,11 @@ El **oficial** se consideraba un trabajador cualificado, que hace el trabajo fin
 
 Para convertirse en maestro, un oficial tenía que pasar un exámen y realizar una obra maestra ante la corporación del gremio tras el cual podría establecerse por su cuenta en un taller, siempre vigilado por el gremio.
 
+...
+...
 > Aquí hay que detallar mas concretamente en qué consistian esas pruebas y exámenes.
+...
+...
 
 En los talleres del renacimiento, aparte de lo anterior y  como evolución una vez dominada la técnica de la copia; también se dibuja del natural introduciéndose como paso previo la utilización de bocetos.
 
@@ -69,42 +75,73 @@ Los materiales usados eran tablillas impresas con polvo de hueso o cubieras con 
 
 Al final del del Renacimiento empezamos a ver cómo se empieza a fragüar la transición hacia la edad moderna, aunque por un lado se siguen manteniendo las antigüas estructuras gremiales, por otro se empiezan a vislumbrar la libertad posterior de los aprendices de artista empezando a usar cuadernos de bocetos.
 
-En el siglo XVI, cuando el Renacimiento se empieza a extender dede Italia al resto del mundo; pintores y escultores empiezan la lucha por independizares del mundo gremial de la Edad Media [referir bibliobrafía].
+En el siglo XVI, cuando el Renacimiento se empieza a extender dede Italia al resto del mundo; pintores y escultores empiezan la lucha por independizarse del mundo gremial de la Edad Media [referir bibliobrafía].
 
 En esta época se empiezan a diferenciar los artistas de los artesanos, siendo los primeros productores de objetos bajo encargo -bellos-, y los segundos productores de artículos de consumo -útiles.
 
-En esta época al final de su aprendizaje, los artistas hacía viajes de formación, visitando talleres de otros artistas (principalmente de Italia) y adquiriendo nuevas técnicas (de ahí que estos artistas produjeran obras _a la italiana_, _a la antigüa_). Estos viajes, en el siglo XVIII derivarían en "El gran tour" [referir bibliografia]
-
 En el Renacimiento es donde se empieza a descubrir la perspetiva, primero la básica con un solo punto de fuga que poco a poco va evolucionando hacia varios puntos de fuga.
 
-En Italia, por esta época (confirmar), empiezan a proliferar las Academias de Bellas Artes como auxilio de los talleres gremiales como punto de reunión de los profesionales donde discutían acerca de su oficio y sus formas de hacer. Con el paso del tiempo estas perderían su _frescura_ y adoptarían un tono academicista mucho más rígido.
+En esta época al final de su aprendizaje, los artistas hacía viajes de formación, visitando talleres de otros artistas (principalmente de Italia) y adquiriendo nuevas técnicas (de ahí que estos artistas produjeran obras _a la italiana_, _a la antigüa_). Estos viajes, en el siglo XVIII derivarían en "El gran tour" [referir bibliografia]
 
-...
-...
-...
-...
+En Italia, por esta época, empiezan a proliferar las Academias de Bellas Artes como auxilio de los talleres gremiales. Eran un punto de reunión de los profesionales donde discutían acerca de su oficio y sus formas de hacer. Con el paso del tiempo estas perderían su _frescura_ y adoptarían un tono academicista, poco a poco van controlando el mundo de las artes plasticas hasta el punto de no ser aceptado como obra de arte nada que no siguiera sus canones, volviéndose instituciones rígidas.
 
-Las Academias, poco a poco van controlando el mundo de las artes plasticas hasta el punto de no ser aceptado como obra de arte nada que no siguiera sus canones, volviéndose instituciones rígidas. Coincidiendo con la revolución industrial, en Inglaterra, a mediados del siglo XIX siendo esta líder en el campo de las artes y oficios, se produce una reforma de los procesos educativos para artesanos y para las academias, ya no tenían que copiar modelos, diseñaban. Muchos artistas y artesanos reniegan del mundo industrial "odio a la civilizacion moderna y a sus productos" (W. Morris), de esta reveldía surge el estilo _Art & Crafts_, que funda talleres de trabajo en el último tercio del siglo XIX, inspirándose en motivos medievales y orientales.
+Uno de los principales críticos con las academias -y que sería precursor de todas las corrientes artísticas que le siguieron- fué Francisco de Goya, que escribió una carta a la Academia de San Fernando (14 de octubre de 1792) donde critica la forma de enseñar en las Academias y propone un metodo educativo basado en la libertad de creación. Pero de todo esto ya hablaremos mas adelante.
 
-En Europa, un poco mas tarde, pasa lo mismo, se fundan el _Museo Austriaco de Artes y Oficios_, y el en Berlín el _Museo de Arte Industrial_ para poner remedio la crisis en la que estaban sumidas las artes industriales. Un segundo impulso reformista llegó de la mano del _jungendstil_ (modernismo). Los alemanes quieren imitar la forma de hacer en Inglaterra, mandan a Hermann Muthesius a estudiar las causas del éxito ingles. A su vuelta con sus propuetas, se ampliaron con talleres las escuelas de artes y oficios. En Düsseldord, Berlin, Stutgart, y Weimar, entre otras, diferentes artistas reforman las escuelas y se fundan talleres que funcionan como escuelas privadas. A diferencia de la escuela inglesa _Art & Crafts_ estos se apoyan en máquinas para la creación artística.
+En la época de la Ilustración, aparecen aspectos que revolucionarán la eduación y el dibujo, Como ya hemos dicho, las academias se han vuelto instituciónes rígidas, por toda Europa empiezan a surgir un nuevo pensamiento pedagógico que culmina on la teorías de Rousseau y Pestalozzi de vuelta a la naturaleza.
+
+El principial objetivo de la pedagogía de Pestalozzi es adaptar la metodología de enseñanza al desempeño natural del niño "usando cabeza, corazón y manos", que se plasma en considerar al dibujo no como un complemento de la educación sino un fin educativo por sí mismo, el niño debe aprender a dibujar porque adquirirá una hablidad que le será útil en muchas cosas, por ejemplo para escribir. No se deben dedicar a reproducir otros objetos, como en las academias, sino que hay que aprender a dibujar de la naturaleza, dando mucha importancia a la interacción con el ambiente. El objetivo es, mediante la observación, descubrir el mundo.
+
+En esta época se empiezan a sentar las bases de la Educación Estatal, aparecen los primeros manuales de dibujo como el de Fiedrich Froebel, "Reglas y Ocupaciones; o el de Johann Pestalozzi (1803), "ABC de la intuición o Intuición de las proporciones", el primer manual genérico para la instrucción de la educación artística.
+
+Coincidiendo con la revolución industrial, en Inglaterra, a mediados del siglo XIX siendo esta líder en el campo de las artes y oficios, se produce una reforma de los procesos educativos para artesanos y para las academias, ya no tenían que copiar modelos, diseñaban. Muchos artistas y artesanos reniegan del mundo industrial "odio a la civilizacion moderna y a sus productos" (W. Morris), de esta reveldía surge el estilo _Art & Crafts_, que funda talleres de trabajo en el último tercio del siglo XIX, inspirándose en motivos medievales y orientales.
+
+En Europa, un poco mas tarde, pasa lo mismo, se fundan el _Museo Austriaco de Artes y Oficios_, y el en Berlín el _Museo de Arte Industrial_ para poner remedio la crisis en la que estaban sumidas las artes industriales. Un segundo impulso reformista llegó de la mano del _jungendstil_ (modernismo). Los alemanes quieren imitar la forma de hacer en Inglaterra, mandan a Hermann Muthesius a estudiar las causas del éxito ingles. A su vuelta con sus propuetas, se ampliaron con talleres las escuelas de artes y oficios. En Düsseldord, Berlin, Stutgart y Weimar, entre otras, diferentes artistas reforman las escuelas y se fundan talleres que funcionan como academias privadas. A diferencia de la escuela inglesa _Art & Crafts_ estos se apoyan en máquinas para la creación artística. Aquí los alumnos serán instruidos en artesanía, dibujo y ciencia.
 
 Es de esta semilla, de donde surge un movimiento de renovación pedagogica que pretende que el arte sea parte de la educacion. Son varios los movimientos que pretenden dar un nuevo concepto en la educacíon plástica, destacan el expresionismo, la Bauhaus y la pedagogía de Rudolf Steiner.
 
+Todos estos movimientos alemanes persiguen la identificación nacional buscando la supremacía comercial creando la Werkbund -_liga de talleres_- que reunía a empresas de arte industrial y  artistas; que se convertiría en el mas importante nexo entre arte y economía antes de la I Guerra Mundial.
 
+> "El ennoblecimiento de las artes industriales en cooperación con el arte, la industria y la artesanía, y a través de la educación, la propaganda y los criterios lógicos ante cuestiones importantes"
+> (Heinrich Waentig, (1909), "Wirtschaft und kunst")
 
+Empiezan colaboraciones entre los artistas y la industria, Walter Gropius que es nombrado miebro de la _Werkbund_ y contribuye al diseño de diferentes proyectos industriales.
 
+Mientras los artistas de la _Jungendstil_ y la _Werkbund_ quieren reconciliar arte y máquina, por otro lado empiezan a surgir movimientos contraculturales y reformadores que se empiezan a considerar a la juventud como una edad autónoma, no sólo como una etapa de preparación para la edad adulta, esta será la semilla del _expresionismo_ y la _pedagogía Waldorf_. A su vez, en Roma María Montessori está desarrollando su pedagogía.
 
+De todas estas corrientes, las que mas ha influido en la educación artística en España, es la _pedagogía Waldorf_ y la _pedagogía Montessori_, de las que hablaremos mas adelante. Mientras la Waldorf se centra en la imaginación y fanatasía de los niños, la Montessori se centra mas en las experiencias sensoriales.
 
+En 1917 Gropius empieza a dejar al _Werkbund_ y empieza a conectar con la escuela de _Weimar_, estableciéndose lo que sería la semillla de la _Bauhaus_, quiere aunar la producción artistica industrial con el modo de hacer de los las talleres medievales en un ambiente igualitario y con un objetivo común, que es la "construcción total" y la formación de un lenguaje de las artes visuales:
 
+> "¡El último fin de toda actividad plástica es la construcción!"
+> 
+> (Walter Gropius (1919), "Manifiesto de la Bauhaus")
 
+Después de la I Guerra Mundial, es la Bauhaus la que toma la iniciativa educativa de los artistas de la nueva República de Weimar, aparte de los tres pilares de la educación artística de antes de la guerra (artesanía, dibujo y ciencia), en esta escuela, no hay catedráticos y alumnos, sino que se retoma el modelo del taller medieval donde hay maestros, oficiales y aprendices. Cada alumno tiene dos maestros, _el maestro de la forma_ (el artista) y _el maestro de la artesanía_ (el artesano), de esta forma se pretendía derribar "el muro de arrogancia existente entre arte y artesanía" (W. Gropius).
 
+Había un curso preparatorio de seis meses. Este curso (que era eliminatorio) era impartido por muchos profesores, entre ellos; en el impartido por Paul Klee se analizaban cuadros y se ejercitaba la utilización mas simple de la formas geométricas (circulo y cuadrado), en el impartido por Kandinsky introducía la cración de efectos espaciales con el color (negro sobre fondo blanco o blanco sobre fondo negro), siempre con los colores primarios.
 
-La muerte de las Academias supone que los artistas sean libres para crear. Es en el siglo XX cuando aparecen los _ismos_, que  finalmente se crean formas de entender el arte contrarias  contrarios a ellas.
+El objetivo es crear un lenguaje plástico basado en el el punto, la línea, el plano, la textura y el color; al igual que existe un lenguaje verbal. El objetivo del curso es despertar en los alumnos la creatividad innata y el conocimiento de los materiales a través de la experimentación.
 
+Tras esto, el alumno que seguía adelante en su formación, elegía un taller que duraba 3 años, y a la vez hacía el _Curso de forma_ con un artista y el curso de dibujo de Gropius. De esta forma, cada alumno (aprendiz) tenía dos referentes, el maestro de forma y el maestro de artesanía. Hay que reseñar que las mujeres acababan todas haciendo el _taller de textil_.
+Entre estos talleres había:
 
-A principios del siglo XX, con el expresionismo, principalmente en Reino Unido y Norte América, aparece esta corriente que concibe la enseñanza artística desde la expresión libre y emocional de la persona, sin instrucciones previas, dejando a las personas que experimenten con los materiales y técnicas. El alumno elige de forma libre los materiales, la técnica, etc... sin pautas por parte del profesor. Ya en España Goya escribió una carta a la Academia de San Fernando. ( copiarla) donde se critica la enseñanza en las Academias y propone un metodo educativo basado en la libertad de creación.
+- Alfarería
+- Impresión gráfica
+- Escultura
+- Pintura
+- Encuadernación
+- Textil
+- Muebles
 
-Desde esta corriente se pone en valor la forma innata que tienen los niños de utilizar las plástica para expresar sus emociones, cosa que no puede ser enseñada, ya que cualquier pauta impuesta puede causar en el sujeto bloqueos e inhibiciones -recordemos que es en estos tiempos cuando está en pleno auge el psicoanálisis.
+También había una oferta semestral de actividades complementarias donde aprendían dibujo de la naturaleza entre otras cosas.
+
+Tras estos tres años se tiene que construir una casa en colaboracion con todos entre ellos la reforma del Teatro Estatal de Jena y el edificio de la Bauhaus en Dessau. Al final, la Bauhaus termina siendo una escuela de arquitectura con Mies Van der Rohe.
+
+Con la llegada de los nazis al poder (1933), la Gestapo exige un plan de estudios fundamentado en en nacionalsocialismo, se investiga a los profesores, esto provoca la fuga de muchos artista y la sentencia de muerte de la Bauhaus.
+
+En paralelo, principalmente en Reino Unido y Norte América, aparece una corriente que concibe la enseñanza artística desde la expresión libre y emocional de la persona, sin instrucciones previas, dejando a las personas que experimenten con los materiales y técnicas. El alumno elige de forma libre los materiales, la técnica, etc... sin pautas por parte del profesor.
+
+Desde esta corriente se pone en valor la forma innata que tienen los niños de utilizar la plástica para expresar sus emociones, cosa que no puede ser enseñada, ya que cualquier pauta impuesta puede causar en el sujeto bloqueos e inhibiciones -recordemos que es en estos tiempos cuando está en pleno auge el psicoanálisis.
 
 El docente tiene que favorecer el autodescubrimiento y exteriorización de las emociones, sin que su intervención suponga una presión hacia el alumno, de forma que este se sienta libre de explorar. En esta corriente la evaluación del alumno carece de importancia.
 
@@ -113,7 +150,9 @@ Los artistas de vanguardia enseguida se suman a esta corriente. En Viena, Franz 
 A su vez, los profesores empiezan a introducir técnicas de los artistas de vanguardia, como puedan ser el collage, experimentación con materiales "no artísticos" o de desecho, etc.
 
 Exponente de esta filosofía es la _Walden School_ de Neva York, que en su currículo otorgó gran importancia a las enseñanzas artísticas siendo la principal preocupación del maestro no reprimir la emociones del niño potenciando la técnica del _Garabateo_.
- Bauhaus. La propia Bauhaus en sus origenes fue expresionista
+
+Desde entonces ha habido pocos cambios en la enseñanza de las artes plásticas, incluso produciéndose una cierta regresión con respecto de los métodos avanzados de la Bauhaus.
+
 ## El caso de España
 
 En este punto tratar las peculiaridades de la enseñanza a lo largo del tiempo en España, haremos referencia en el caso de que en España tenga características distintas que en en resto del mundo.
@@ -122,6 +161,12 @@ En este punto tratar las peculiaridades de la enseñanza a lo largo del tiempo e
 > La Real Academia de Bellas Artes de San Fernando
 > La Institución de Libre Enseñanza
 > La educación reglada, el lío que ha habido históricamente con las leyes de educación
+
+### Metodología Waldorf
+
+### Metodología Montessori
+
+"Para dar el don del dibujo, debemos crear un ojo que ve, una mano que obedece, un alma que siente; y en este trabajo la vida misma debe cooperar. En este sentido, la vida es la única preparación para el dibujo... no existen ejercicio graduados para el dibujo, llevando a la eduación artística. Este objetivo solamente puede alcanzarse a través del desarrollo de técnicas y la libertad espiritual... esta es la razón por la que no enseñamos a dibujar a los niños de forma directa sino dejandoles libres para reproducir en función de sus sentimientos. Así dibujar se transforma en una forma de expresión al igual que el lenguaje y casi todas las ideas pueden ser expresadas en dibujos."
 
 ## Bibliografía
 
