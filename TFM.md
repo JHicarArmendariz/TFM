@@ -1,12 +1,17 @@
-# Metodología de la enseñanza de la enseñanza de las Artes Plásticas en España
+# Metodología de la enseñanza de las Artes Plásticas en España
 
-- [Metodología de la enseñanza de la enseñanza de las Artes Plásticas en España](#metodología-de-la-enseñanza-de-la-enseñanza-de-las-artes-plásticas-en-españa)
+- [Metodología de la enseñanza de las Artes Plásticas en España](#metodología-de-la-enseñanza-de-las-artes-plásticas-en-españa)
   - [Introducción](#introducción)
   - [Marco teórico](#marco-teórico)
   - [(Contexto histórico, estado de la cuestión)](#contexto-histórico-estado-de-la-cuestión)
   - [El caso de España](#el-caso-de-españa)
+    - [Los talleres en la Edad Media](#los-talleres-en-la-edad-media)
+    - [El Renacimiento y el Barroco](#el-renacimiento-y-el-barroco)
+    - [La Ilustración: La Real Academia de Bellas Artes de San Fernando](#la-ilustración-la-real-academia-de-bellas-artes-de-san-fernando)
+    - [La Institución de Libre Enseñanza](#la-institución-de-libre-enseñanza)
     - [Metodología Waldorf](#metodología-waldorf)
     - [Metodología Montessori](#metodología-montessori)
+    - [La formación reglada](#la-formación-reglada)
   - [Bibliografía](#bibliografía)
 
 ## Introducción
@@ -17,61 +22,28 @@ bla, bla
 
 ## (Contexto histórico, estado de la cuestión)
 
-Vamos a hacer una revision historico/conceptual de cómo se ha ido desarrollando la enseñanza de las artes plásticas, entendiendo por esto, dibujo, pintura y escultura. El resto de las artes plásticas no se abarcan en el presente trabajo porque consideramos que, por un lado, la arquitectura por sí misma es una materia que ocuparía por sí sola un tratado y el resto haría que este trabajo se extienda mucho.
+Vamos a hacer una revision historico/conceptual de cómo se ha ido desarrollando la enseñanza de las artes plásticas, entendiendo por esto, dibujo y pintura. El resto de las artes plásticas no se abarcan en el presente trabajo porque consideramos que se extiendería mucho, aunque puntualmente podamos hacer referncia a alguna de ellas.
 
 En nuestra época es fácil distinguir entre las diferentes disciplinas, pero las fronteras entre ellas se van difuminando según vamos retrocediendo en el tiempo. En el presente trabajo vamos a ir haciendo un recorrido de cómo se ha ido enseñando y la importancia que se le ha dado a esta materia a lo largo de la historia.
 
 En el antigüo Egipto, el artista es considerado -a excepción de algún arquitecto- un simple artesano, y la formación recibida se correspondía a tal. Un jóven tendría el oficio de su padre y tenía su formación marcada desde su nacimiento. El aprendizaje se realizaba en el taller, siguiendo métodos que, como veremos, se repetirán a lo largo de la historia.
 
-En la época antigüa, en Grecia, con las escuelas de Sicon y Corinto, es donde se empiez a desarrollar una pedagogía de las Artes Plástias.
+En la época antigüa, en Grecia, con las escuelas de Sicon y Corinto, es donde se empieza desarrollar una pedagogía de las Artes Plástias.
 
-Casi todas las referencias nos vienen a través de Plinio el Viejo (23-79 d.C). Según relata, el pintor de Alejando Magno -Apeles de Colofón- recomendaba al pintor no dejar día sin pintar para mejora la téctica. Apeles fué docente en la escuela de Sicón, donde se instauró la norma entre los alumnos _nulla dies sine pictura_ y donde la pintura era un elemento pedagógico en la educación integral del ciudadano.
+Casi todas las referencias nos vienen a través de Plinio el Viejo (23-79 d.C). Según relata, el pintor de Alejando Magno -Apeles de Colofón- recomendaba al pintor no dejar día sin pintar para mejora la téctica. Apeles fué docente en la escuela de Sicón, donde se instauró la norma entre los alumnos _nulla dies sine pictura_ (ningún día sin pintar), y donde la pintura era un elemento pedagógico en la educación integral del ciudadano.
 
-Desde el inicio de la pintura griega, se resalta el dibujo como proceso básico de la pintura haciendo incapié en la proporción. Hay que atribuir a Pánfilo la autoría de un tratado sobre pintura y dibujo, y defendió el valor pedagógico del artista y el valor de la aritmética y geometría como ciencias sin las cuales era inconcebible finalizar una obra.
+Desde el inicio de la pintura griega, se resalta el dibujo como proceso básico de la pintura haciendo hincapié en la proporción. Hay que atribuir a Pánfilo la autoría de un tratado sobre pintura y dibujo, y defendió el valor pedagógico del artista y el valor de la aritmética y geometría como ciencias sin las cuales era inconcebible finalizar una obra.
 
 A partir del siglo V a.C. la educación artística se orientó a adquirir destrezas gráficas, empleando para ello métodos propios de la formación de artistas como puedan ser la copia o el dibujo del natural, buscando la imitación de la naturaleza.
 
-Es en esta época cuando en Atenas se persiguen cuatro objetivos educativos: adquirir valores éticos, transmisión del saber acumulado, interés hacia nuevas formas educativas y enseñar habilidades para ejercer un oficio. Desde la edad de siete años y hasta los catorce, los jóvenes eran formados por profesores particulares y/o aprendían un oficio. Después, y hasta los dieciocho años recibían entrenamiento militar. Esto dejaba de lado la enseñanza de las artes plásticas, consideradas oficios artesanales carentes de valor pedagógico. Esta idea es reforzada en el plan educativo de Platón para la ciudad ideal, donde las artes pláticas no son consideradas elementos pedagógicos útiles ya que como imágenes del mundo de las ideas son falsas.
+Es en esta época cuando en Atenas se persiguen cuatro objetivos educativos: adquirir valores éticos, transmisión del saber acumulado, interés hacia nuevas formas educativas y enseñar habilidades para ejercer un oficio. Desde la edad de siete años y hasta los catorce, los jóvenes eran formados por profesores particulares y/o aprendían un oficio. Después, y hasta los dieciocho años recibían entrenamiento militar. Esto dejaba de lado la enseñanza de las artes plásticas, consideradas oficios artesanales carentes de valor pedagógico. Esta idea es reforzada en el plan educativo de Platón para la ciudad ideal, donde las artes pláticas no son consideradas elementos pedagógicos útiles ya que como imágenes del mundo de las ideas, son falsas.
 
-Esto cambia con Aritóteles, quien considera el arte y la educación "vienen a completar lo que la naturaleza deja incompleto", con lo que la pintura y el dibujo tornan, a diferencia que para su maestro, herramientas pedagógicas con legitimación intelectual.
+Esto cambia con Aritóteles, quien considera que el arte y la educación "vienen a completar lo que la naturaleza deja incompleto", con lo que la pintura y el dibujo tornan, a diferencia que para su maestro, herramientas pedagógicas con legitimación intelectual.
 
 En Roma, bla, bla, bla, Vitruvio, bla, bla, mosaicos, bla, bla
 
-Y llegamos a los visigodos y el comienzo de la Edad Media, donde los talleres y los gremios tomarán importancia. En ellos, un aprendiz entra a formase en el taller de un maestro que le va dando trabajos repetitivos para ir formándole, y mediante pruebas, cada vez le da mas tareas con las que va perfeccionando el oficio, llegando hasta la condición de _oficial artesano_ y cuando el maestro lo consideraba preparado, tras el exámen de maestría, en el que tenía que hacer una "obra maestra" obtenía el título de maestro.
+Y llegamos a los visigodos y el comienzo de la Edad Media, donde los talleres y los gremios tomarán importancia. En ellos, un aprendiz entra a formase en el taller de un maestro que le va dando trabajos repetitivos para ir formándole, y mediante pruebas, cada vez le da mas tareas con las que va perfeccionando el oficio, llegando hasta la condición de _oficial artesano_ y cuando el maestro lo consideraba preparado, tras el exámen de maestría en el que tenía que hacer una "obra maestra" obtenía el título de maestro.
 
-El **aprendiz** es un chico entre 8 y 14 años, recibe la formación impartida por el maestro a la vez que son mano de obra barata para el taller, vivían con el maestro como un hijo mas, y a veces les pagaba un salario, según estipulase el _contrato de aprendizaje_ cuando lo había. Los padres negociaban cómo sería la relación y transmitián la patria potestad al maestro. De media, un muchacho estaba entre 4 y 8 años en esta condición.
-
-Para pasar a oficial, un aprendiz tenía que tener la _contenta_ de su maestro -un visto bueno.
-
-Un aprendiz podía cambiar de oficio si su maestro veía que tenía aptitudes para el otro oficio, recomendando al otro maestro la tutela de su pupilo.
-
-El aprendíz se incorporaba a la casa del maestro y vivía con el, normalmente en el mismo taller, siendo el maestro no sólo formador en el oficio sino también haciendo la función de tutor, la familia del maestro es un ejemplo para el aprendiz.
-
-Hay un orden jerárquico claramente definido y toda la educación se orienta a encaminar al muchacho en los grados de aprendiz y oficial hasta, si tiene la valía suficiente, maestro. Aparte de la formación técnica a la que haremos referencia en breve, se forma al aprendiz en la sumisión y respeto a los superiores.
-
-Las características pegagógicas son "la rutina, la pasividad, y socialemnte, la multiplicación abusiva de obstáculos en la carrerar del trabajador" [1], destinada a mantener las clases sociales.
-
-La formación del aprendíz tenía un marcado carácter empírico, se hacían desde tareas sencillas desde preparación de materiales, aprendizaje del uso de las herramientas, etc... pero lo realmente formador era la colaboración práctica en la obra del maestro que cogía más importancia según el aprendiz adquiría pericia a base de repeticiones.
-
-Uno de los métodos más efectivos era la copia y ejercicios de dibujo, de esta forma, ejercitaban el ojo y la mano. Los modelos son dibujos realizados por el maestro, usaban como modelos obras de maestros antigüos o contemporaneos, desde dibujos hasta obras completas. Todo esto se guardaba en _libros de apuntes_  que usaba el maestro y se intercambiaban entre maestros.
-
-Una de las principales carácterísticas de la formación en esta época es que huye de innovaciones, estando orientada la formación a la repetición e imitación de modelos "ejemplares"; en definitiva, la búsqueda de la costumbre (el "como se acostumbra a hacer").
-
-La formación gremial se dilata en el tiempo debido a que el gremio impone un "número clauso" de trabajadores adultos, de forma que la forma de avanzar en la formación muchas veces implicaba dejar al maestro y cambiarlo por otro (en otro lugar normalmente).
-
-El **oficial** se consideraba un trabajador cualificado, que hace el trabajo final, la relación con el maestro era contractual. Dos años era el tiempo mínimo en el que se tenía que estar en esta condición.
-
-Para convertirse en maestro, un oficial tenía que pasar un exámen y realizar una obra maestra ante la corporación del gremio tras el cual podría establecerse por su cuenta en un taller, siempre vigilado por el gremio.
-
-...
-...
-> Aquí hay que detallar mas concretamente en qué consistian esas pruebas y exámenes.
-...
-...
-
-En los talleres del renacimiento, aparte de lo anterior y  como evolución una vez dominada la técnica de la copia; también se dibuja del natural introduciéndose como paso previo la utilización de bocetos.
-
-Los materiales usados eran tablillas impresas con polvo de hueso o cubieras con pergamino.
 
 Al final del del Renacimiento empezamos a ver cómo se empieza a fragüar la transición hacia la edad moderna, aunque por un lado se siguen manteniendo las antigüas estructuras gremiales, por otro se empiezan a vislumbrar la libertad posterior de los aprendices de artista empezando a usar cuadernos de bocetos.
 
@@ -157,10 +129,48 @@ Desde entonces ha habido pocos cambios en la enseñanza de las artes plásticas,
 
 En este punto tratar las peculiaridades de la enseñanza a lo largo del tiempo en España, haremos referencia en el caso de que en España tenga características distintas que en en resto del mundo.
 
-> **Aquí habría que tratar**
-> La Real Academia de Bellas Artes de San Fernando
-> La Institución de Libre Enseñanza
+### Los talleres en la Edad Media
+
+El **aprendiz** es un chico entre 8 y 14 años, recibe la formación impartida por el maestro a la vez que son mano de obra barata para el taller, vivían con el maestro como un hijo mas, y a veces les pagaba un salario, según estipulase el _contrato de aprendizaje_ cuando lo había. Los padres negociaban cómo sería la relación y transmitián la patria potestad al maestro. De media, un muchacho estaba entre 4 y 8 años en esta condición.
+
+Para pasar a oficial, un aprendiz tenía que tener la _contenta_ de su maestro- un visto bueno.
+
+Un aprendiz podía cambiar de oficio si su maestro veía que tenía aptitudes para el otro oficio, recomendando al otro maestro la tutela de su pupilo.
+
+Hay un orden jerárquico claramente definido y toda la educación se orienta a encaminar al alumno en los grados de aprendiz y oficial hasta, si tiene la valía suficiente, maestro. Aparte de la formación técnica a la que haremos referencia en breve, se forma al aprendiz en la sumisión y respeto a los superiores.
+
+Las características pegagógicas son "la rutina, la pasividad, y socialemnte, la multiplicación abusiva de obstáculos en la carrerar del trabajador", destinada a mantener las clases sociales.
+
+La formación del aprendíz tenía un marcado carácter empírico, se hacían desde tareas sencillas como la preparación de materiales, aprendizaje del uso de las herramientas, etc... pero lo realmente formador era la colaboración práctica en la obra del maestro que cogía más importancia según el aprendiz adquiría pericia a base de repeticiones.
+
+Uno de los métodos más efectivos era la copia y ejercicios de dibujo, de esta forma, ejercitaban el ojo y la mano. Los modelos son dibujos realizados por el maestro, usaban como modelos obras de maestros antigüos o contemporaneos, desde dibujos hasta obras completas. Todo esto se guardaba en _libros de apuntes_  que usaba el maestro y se intercambiaban entre maestros.
+
+Una de las principales carácterísticas de la formación en esta época es que huye de innovaciones, estando orientada la formación a la repetición e imitación de modelos "ejemplares"; en definitiva, la búsqueda de la costumbre (el "como se acostumbra a hacer").
+
+La formación gremial se dilata en el tiempo debido a que el gremio impone un "número clauso" de trabajadores adultos, de forma que la forma de avanzar en la formación muchas veces implicaba dejar al maestro y cambiarlo por otro (en otro lugar normalmente).
+
+El **oficial** se consideraba un trabajador cualificado, que hace el trabajo final, la relación con el maestro era contractual. Dos años era el tiempo mínimo en el que se tenía que estar en esta condición.
+
+Para convertirse en maestro, un oficial tenía que pasar un exámen y realizar una obra maestra ante la corporación del gremio tras el cual podría establecerse por su cuenta en un taller, siempre vigilado por el gremio.
+
+...
+...
+> Aquí hay que detallar mas concretamente en qué consistian esas pruebas y exámenes.
+...
+...
+
+En los talleres del renacimiento, aparte de lo anterior y  como evolución una vez dominada la técnica de la copia; también se dibuja del natural introduciéndose como paso previo la utilización de bocetos.
+
+Los materiales usados eran tablillas impresas con polvo de hueso o cubieras con pergamino.
+
+### El Renacimiento y el Barroco
+
+### La Ilustración: La Real Academia de Bellas Artes de San Fernando
+
 > La educación reglada, el lío que ha habido históricamente con las leyes de educación
+
+### La Institución de Libre Enseñanza
+
 
 ### Metodología Waldorf
 
@@ -168,6 +178,7 @@ En este punto tratar las peculiaridades de la enseñanza a lo largo del tiempo e
 
 "Para dar el don del dibujo, debemos crear un ojo que ve, una mano que obedece, un alma que siente; y en este trabajo la vida misma debe cooperar. En este sentido, la vida es la única preparación para el dibujo... no existen ejercicio graduados para el dibujo, llevando a la eduación artística. Este objetivo solamente puede alcanzarse a través del desarrollo de técnicas y la libertad espiritual... esta es la razón por la que no enseñamos a dibujar a los niños de forma directa sino dejandoles libres para reproducir en función de sus sentimientos. Así dibujar se transforma en una forma de expresión al igual que el lenguaje y casi todas las ideas pueden ser expresadas en dibujos."
 
+### La formación reglada
 ## Bibliografía
 
 Marco Lucio Vitruvio Polion (), "Los diez libros de Arquitectura"
