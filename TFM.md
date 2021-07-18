@@ -11,6 +11,7 @@
     - [La Institución de Libre Enseñanza](#la-institución-de-libre-enseñanza)
     - [Metodología Waldorf](#metodología-waldorf)
     - [Metodología Montessori](#metodología-montessori)
+    - [Metodología _Summer Hill_](#metodología-summer-hill)
     - [La formación reglada](#la-formación-reglada)
   - [Bibliografía](#bibliografía)
 
@@ -40,30 +41,39 @@ Es en esta época cuando en Atenas se persiguen cuatro objetivos educativos: adq
 
 Esto cambia con Aritóteles, quien considera que el arte y la educación "vienen a completar lo que la naturaleza deja incompleto", con lo que la pintura y el dibujo tornan, a diferencia que para su maestro, herramientas pedagógicas con legitimación intelectual.
 
-En Roma, bla, bla, bla, Vitruvio, bla, bla, mosaicos, bla, bla
+En Roma, hay que señalar el "De Architectura libri decem" (_Los diez libros de Arquitectura_) de Marco Vitruvio. Es un tratado sobre arquitectura, que tuvo mucha influencia en el Renacimiento. En este tratado aborda todos los temas relacionados con el arte dado que para él, el Arquitecto debe ser un artista completo -escultor, pintor, músico, etc...- entre las ideas que introduce, podríamos destacar la _euritmia_ -la armonía en la arquitectura- que luego reaperacerá en el Renacimiento y posteriormente en la pedagogía Waldorf. Como obra global, tambíen se ocupa de los colores y de la forma de hacer mosaicos. En cuanto a la educación, se formaba a los niños en los textos clásicos, se daba una educación básica en lengua y cálculo elemental orientada al comercio, y los que seguían con su formación esta se orientaba a la oratoria.
 
-Y llegamos a los visigodos y el comienzo de la Edad Media, donde los talleres y los gremios tomarán importancia. En ellos, un aprendiz entra a formase en el taller de un maestro que le va dando trabajos repetitivos para ir formándole, y mediante pruebas, cada vez le da mas tareas con las que va perfeccionando el oficio, llegando hasta la condición de _oficial artesano_ y cuando el maestro lo consideraba preparado, tras el exámen de maestría en el que tenía que hacer una "obra maestra" obtenía el título de maestro.
+Y llegamos a los visigodos y el comienzo de la Edad Media, donde los talleres y los gremios tomarán importancia. En ellos, un aprendiz entra a formase en el taller de un maestro que le va dando trabajos repetitivos para ir formándole, y mediante pruebas, cada vez le da mas tareas con las que va perfeccionando el oficio, llegando hasta la condición de _oficial artesano_ y cuando el maestro lo consideraba preparado, tras el exámen de maestría en el que tenía que hacer una "obra maestra" obtenía el título de maestro. Entraremos en mas profundidad posteriormente.
 
-
-Al final del del Renacimiento empezamos a ver cómo se empieza a fragüar la transición hacia la edad moderna, aunque por un lado se siguen manteniendo las antigüas estructuras gremiales, por otro se empiezan a vislumbrar la libertad posterior de los aprendices de artista empezando a usar cuadernos de bocetos.
+Al final del Renacimiento empezamos a ver cómo se empieza a fragüar la transición hacia la edad moderna, aunque por un lado se siguen manteniendo las antigüas estructuras gremiales, por otro se empiezan a vislumbrar la libertad posterior de los aprendices de artista empezando a usar cuadernos de bocetos.
 
 En el siglo XVI, cuando el Renacimiento se empieza a extender dede Italia al resto del mundo; pintores y escultores empiezan la lucha por independizarse del mundo gremial de la Edad Media [referir bibliobrafía].
 
 En esta época se empiezan a diferenciar los artistas de los artesanos, siendo los primeros productores de objetos bajo encargo -bellos-, y los segundos productores de artículos de consumo -útiles.
 
-En el Renacimiento es donde se empieza a descubrir la perspetiva, primero la básica con un solo punto de fuga que poco a poco va evolucionando hacia varios puntos de fuga.
+Es en el Renacimiento donde se empieza a descubrir la perspetiva, primero la básica con un solo punto de fuga que poco a poco va evolucionando hacia varios puntos de fuga.
 
 En esta época al final de su aprendizaje, los artistas hacía viajes de formación, visitando talleres de otros artistas (principalmente de Italia) y adquiriendo nuevas técnicas (de ahí que estos artistas produjeran obras _a la italiana_, _a la antigüa_). Estos viajes, en el siglo XVIII derivarían en "El gran tour" [referir bibliografia]
 
-En Italia, por esta época, empiezan a proliferar las Academias de Bellas Artes como auxilio de los talleres gremiales. Eran un punto de reunión de los profesionales donde discutían acerca de su oficio y sus formas de hacer. Con el paso del tiempo estas perderían su _frescura_ y adoptarían un tono academicista, poco a poco van controlando el mundo de las artes plasticas hasta el punto de no ser aceptado como obra de arte nada que no siguiera sus canones, volviéndose instituciones rígidas.
+Paralelamente en los talleres de los siglos XV, XVI y XVII en las actuales Bélgica y Holanda, surge la Escuela Flamenca. Su funcionamiento es el de un taller de esa época. Los alumnos pintaban en caballete obras en miniatura, para mirar de cerca, con pintura al óleo como novedad técnica.
 
-Uno de los principales críticos con las academias -y que sería precursor de todas las corrientes artísticas que le siguieron- fué Francisco de Goya, que escribió una carta a la Academia de San Fernando (14 de octubre de 1792) donde critica la forma de enseñar en las Academias y propone un metodo educativo basado en la libertad de creación. Pero de todo esto ya hablaremos mas adelante.
+A finales del Renacimiento empiezan a proliferar las Academias de Bellas Artes como auxilio de los talleres gremiales. Destacan la Academia de Arte de Florencia, fundada en 1560 por los Medicci, La Academia de Arte de Roma, fundada en 1580 por el Papa Gregorio XIII, La Academia Real de pintura y escultura de Francia, fundada en 1648 por Luis XIV, un siglo mas tarde se fundaría la Real Academia de Bellas Artes de San Fernado en 1752 por Fernando VI. Eran un punto de reunión de los profesionales donde discutían acerca de su oficio y sus formas de hacer.
+
+En estas academias enseñaban pintura y escultura a buenos estudianes, proporcionandoles un lugar para exponer. La formación primeramente se centabra en el dominio del dibujo mediante copia de modelos clásicos, luego se pasaba a hacer composiciones conjugando los conocimientos adquiridos en la etapa anterior, luego se llegaba a la pintura del natural, llegándose en una última etapa al desarrollo de las técnicas de pintura al óleo.
+
+Con el paso del tiempo estas perderían su _frescura_ y adoptarían un tono academicista, poco a poco van controlando el mundo de las artes plasticas hasta el punto de no ser aceptado como obra de arte nada que no siguiera sus cánones y nadie podía producir obras de arte oficiales si no era miembro de la academia, volviéndose instituciones rígidas.
 
 En la época de la Ilustración, aparecen aspectos que revolucionarán la eduación y el dibujo, Como ya hemos dicho, las academias se han vuelto instituciónes rígidas, por toda Europa empiezan a surgir un nuevo pensamiento pedagógico que culmina on la teorías de Rousseau y Pestalozzi de vuelta a la naturaleza.
 
 El principial objetivo de la pedagogía de Pestalozzi es adaptar la metodología de enseñanza al desempeño natural del niño "usando cabeza, corazón y manos", que se plasma en considerar al dibujo no como un complemento de la educación sino un fin educativo por sí mismo, el niño debe aprender a dibujar porque adquirirá una hablidad que le será útil en muchas cosas, por ejemplo para escribir. No se deben dedicar a reproducir otros objetos, como en las academias, sino que hay que aprender a dibujar de la naturaleza, dando mucha importancia a la interacción con el ambiente. El objetivo es, mediante la observación, descubrir el mundo.
 
 En esta época se empiezan a sentar las bases de la Educación Estatal, aparecen los primeros manuales de dibujo como el de Fiedrich Froebel, "Reglas y Ocupaciones; o el de Johann Pestalozzi (1803), "ABC de la intuición o Intuición de las proporciones", el primer manual genérico para la instrucción de la educación artística.
+
+Volviendo a las academias, principalmente a la francesa; desde 1677 se hacía una exposición anual -_Le Salon de Paris_- donde sólo podían exponer los miembros de la Academia. Esto sigue así hasta que Napoleón III se ve obligado a fundar _Le Salon des Refusées_ a raíz de que la academia empieza a rechazar a artistas como Cézzane, Manet y Pissarro. Esto marcaría el declive de la Academia.
+
+Los Impresionistas, queriendo romper con la rigidez de la Acamemia, se empiezan a juntar en barrios como en Montmartre o Montparnasse donde exponen sus obras en bares, cabarets, etc... creando una comunidad en la que interaccionan entre ellos en un clima de intercambio de conocimientos. Eran autodidactas y experimentaban con los nuevos soportes artísticos que por entonces estaban surgiendo (cine, fotografía) desviándose de la unicidad de la pintura en las academias.
+
+En paralelo a esto en La Haya (1860), se está formando _La escuela gris_, pintan escenas cotidianas, paisajes, siempre en tonos grises, como evolución del Romanticismo, las lecciones se centraban en el dibujo en lugar de en la pintura, los alumnos que empezaron en esta escuela, para completar su formación tuvieron que ir a otros lados para aprender a pintar, acabmado todos ellos en el Impresionismo. Como ejemplos, Boudin enseñó a Monet y Mauve a Van Gogh.
 
 Coincidiendo con la revolución industrial, en Inglaterra, a mediados del siglo XIX siendo esta líder en el campo de las artes y oficios, se produce una reforma de los procesos educativos para artesanos y para las academias, ya no tenían que copiar modelos, diseñaban. Muchos artistas y artesanos reniegan del mundo industrial "odio a la civilizacion moderna y a sus productos" (W. Morris), de esta reveldía surge el estilo _Art & Crafts_, que funda talleres de trabajo en el último tercio del siglo XIX, inspirándose en motivos medievales y orientales.
 
@@ -78,7 +88,7 @@ Todos estos movimientos alemanes persiguen la identificación nacional buscando 
 
 Empiezan colaboraciones entre los artistas y la industria, Walter Gropius que es nombrado miebro de la _Werkbund_ y contribuye al diseño de diferentes proyectos industriales.
 
-Mientras los artistas de la _Jungendstil_ y la _Werkbund_ quieren reconciliar arte y máquina, por otro lado empiezan a surgir movimientos contraculturales y reformadores que se empiezan a considerar a la juventud como una edad autónoma, no sólo como una etapa de preparación para la edad adulta, esta será la semilla del _expresionismo_ y la _pedagogía Waldorf_. A su vez, en Roma María Montessori está desarrollando su pedagogía.
+Mientras los artistas de la _Jungendstil_ y la _Werkbund_ quieren reconciliar arte y máquina, por otro lado empiezan a surgir movimientos contraculturales y reformadores que se empiezan a considerar a la juventud como una edad autónoma, no sólo como una etapa de preparación paraw la edad adulta, esta será la semilla del _expresionismo_ y la _pedagogía Waldorf_. A su vez, en Roma María Montessori está desarrollando su pedagogía.
 
 De todas estas corrientes, las que mas ha influido en la educación artística en España, es la _pedagogía Waldorf_ y la _pedagogía Montessori_, de las que hablaremos mas adelante. Mientras la Waldorf se centra en la imaginación y fanatasía de los niños, la Montessori se centra mas en las experiencias sensoriales.
 
@@ -109,7 +119,7 @@ También había una oferta semestral de actividades complementarias donde aprend
 
 Tras estos tres años se tiene que construir una casa en colaboracion con todos entre ellos la reforma del Teatro Estatal de Jena y el edificio de la Bauhaus en Dessau. Al final, la Bauhaus termina siendo una escuela de arquitectura con Mies Van der Rohe.
 
-Con la llegada de los nazis al poder (1933), la Gestapo exige un plan de estudios fundamentado en en nacionalsocialismo, se investiga a los profesores, esto provoca la fuga de muchos artista y la sentencia de muerte de la Bauhaus.
+Con la llegada de los nazis al poder (1933), la Gestapo exige un plan de estudios fundamentado en en nacionalsocialismo, se investiga a los profesores, esto provoca la fuga de muchos artista y la sentencia de muerte de la Bauhaus. Muchos de estos artistas se fueron a EE.UU. y entre algunos de ellos fundaron el _Black Mountain College_.
 
 En paralelo, principalmente en Reino Unido y Norte América, aparece una corriente que concibe la enseñanza artística desde la expresión libre y emocional de la persona, sin instrucciones previas, dejando a las personas que experimenten con los materiales y técnicas. El alumno elige de forma libre los materiales, la técnica, etc... sin pautas por parte del profesor.
 
@@ -122,6 +132,8 @@ Los artistas de vanguardia enseguida se suman a esta corriente. En Viena, Franz 
 A su vez, los profesores empiezan a introducir técnicas de los artistas de vanguardia, como puedan ser el collage, experimentación con materiales "no artísticos" o de desecho, etc.
 
 Exponente de esta filosofía es la _Walden School_ de Neva York, que en su currículo otorgó gran importancia a las enseñanzas artísticas siendo la principal preocupación del maestro no reprimir la emociones del niño potenciando la técnica del _Garabateo_.
+
+En esta época, en Inglaterra surge la _Summer Hill_ que también tiene su representación en España y de la que hablaremos mas adelante.
 
 Desde entonces ha habido pocos cambios en la enseñanza de las artes plásticas, incluso produciéndose una cierta regresión con respecto de los métodos avanzados de la Bauhaus.
 
@@ -167,7 +179,7 @@ Los materiales usados eran tablillas impresas con polvo de hueso o cubieras con 
 
 ### La Ilustración: La Real Academia de Bellas Artes de San Fernando
 
-> La educación reglada, el lío que ha habido históricamente con las leyes de educación
+Uno de los principales críticos con las academias -y que sería precursor de todas las corrientes artísticas que le siguieron- fué Francisco de Goya, que escribió una carta a la Academia de San Fernando (14 de octubre de 1792) donde critica la forma de enseñar en las Academias y propone un metodo educativo basado en la libertad de creación. Pero de todo esto ya hablaremos mas adelante.
 
 ### La Institución de Libre Enseñanza
 
@@ -178,7 +190,20 @@ Los materiales usados eran tablillas impresas con polvo de hueso o cubieras con 
 
 "Para dar el don del dibujo, debemos crear un ojo que ve, una mano que obedece, un alma que siente; y en este trabajo la vida misma debe cooperar. En este sentido, la vida es la única preparación para el dibujo... no existen ejercicio graduados para el dibujo, llevando a la eduación artística. Este objetivo solamente puede alcanzarse a través del desarrollo de técnicas y la libertad espiritual... esta es la razón por la que no enseñamos a dibujar a los niños de forma directa sino dejandoles libres para reproducir en función de sus sentimientos. Así dibujar se transforma en una forma de expresión al igual que el lenguaje y casi todas las ideas pueden ser expresadas en dibujos."
 
+### Metodología _Summer Hill_
+
+Pionera como escuela libre. En España está implantada el el Colegio Itaca de Almería y en la Escola Camins de Banyoles (Girona).
+
+Renuncia a toda autoridad moral o jerárquica. Se le da mucha importancia al dibujo y a cualquier creación artística. Hay que dejar total libertad creativa. Se debe trabajar con la emoción, la sensibilidad debe primar sobre la racionalidad".
+
+> "Los creadores aprenden lo que desean aprender, no sabemos cuanta libertad de creación matan las salas de clase"
+>
+> (Alexander Sutherland)
+
 ### La formación reglada
+
+> La educación reglada, el lío que ha habido históricamente con las leyes de educación
+
 ## Bibliografía
 
 Marco Lucio Vitruvio Polion (), "Los diez libros de Arquitectura"
@@ -222,4 +247,6 @@ Pablo Celada Perandones, Nicolás Alonso Castro; "La enseñanza del dibujo: un r
 Elisa Povedano Marrugat (1999), "Enseñanza de las Bellas Artes en España", Universidad Carlos III, Madrid, ISSN 10016/16183
 
 África Cabanillas Casafranca, Amparo Serrano de Haro, "La mujer en la Escuela de Bellas Artes de San Fernando (1873-1967), Academia 12,2019, 111-136, ISSN 0567-560X
+
+Boime, Albert (1969). "The Salon des Refusés and the Evolution of Modern Art". Art Quarterly.
 
